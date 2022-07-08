@@ -208,5 +208,44 @@
         "username": "Myayi",
         "password": "pachon"
       }
+    ],
+    "camisetas": [
+      {
+        "url_f": "../images/denis.png" ,
+        "url_b": "../images/denis 2.png" ,
+        "id": "Denis",
+        "price": "40$",
+        "class":"card-img-top bg-black fotos"
+      },
+      {
+        "url_f": "../images/lebron.png",
+        "url_b": "../images/lebron 3.png" ,
+        "id": "Lebron",
+        "price": "50 $",
+        "class": "card-img-top"
+      },
+      {
+        "url_f": "../images/michael.png" ,
+        "url_b": "../images/michael 2.png",
+        "id": "Michael",
+        "price": "80 $",
+        "class": "card-img-top bg-black"
+      },
+      {
+        "url_f": "../images/natural tee.png" ,
+        "url_b":"../images/natural tee back.png",
+        "id": "Mamba-front",
+        "price": "70 $",
+        "class": "card-img-top"
+      }
+    ],
+    "hoodies": [
+      {
+        "url_f": "../images/natural hoodie.png" ,
+        "url_b": "../images/natural hoodie back.png" ,
+        "id": "Denis",
+        "price": "40$",
+        "class":"card-img-top bg-black fotos"
+      }
     ]
   }
